@@ -1,5 +1,4 @@
 # Hello there!
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 - Hi, I’m @Jade-Hao!
 - Pronouns: she/her
